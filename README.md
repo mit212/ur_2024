@@ -1,8 +1,7 @@
 # Sample Code for UR5 Robot 
-- [Sample Code for UR5 Robot](#sample-code-for-ur5-robot)
-  - [1 Installation](#1-installation)
-  - [2 Getting Started](#2-getting-started)
-    - [2.1 Windows](#21-windows)
+- [1 Installation](#1-installation)
+- [2 Getting Started](#2-getting-started)
+  - [2.1 Windows](#21-windows)
 
 ## 1 Installation 
 
