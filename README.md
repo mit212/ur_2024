@@ -1,4 +1,8 @@
 # Sample Code for UR5 Robot 
+
+2.12/2.120 Intro to Robotics  
+Spring 2024[^1]
+
 - [1 Installation](#1-installation)
 - [2 Getting Started](#2-getting-started)
   - [2.1 Windows](#21-windows)
@@ -56,3 +60,7 @@ Note: In these steps, we navigated to our desired directory by entering its exac
 - `ls`: returns the contents of your current directory
 - `cd example`: goes to `example` subfolder **within the current directory**
 - `cd ..`: goes to the folder that contains your current directory, think of this as going up by a level
+
+
+[^1]: Version 1 - 2023: Ravi Tejwani, Erik Ballesteros, Chengyuan Ma, Kamal Youcef-Toumi  
+  Version 2 - 2024: Jinger Chong
